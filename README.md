@@ -24,6 +24,8 @@ Alternatively you can put all instructions in a file following the format of `ex
 $ ./sillybot -f example.yaml
 ```
 
+To exit, just do `ctrl-c`
+
 To get command help, run
 ```
 $ ./sillybot -h

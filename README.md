@@ -5,15 +5,14 @@ A silly bot only can move around 5X5 spaces
 [see here](requirement.txt)
 
 ## Installation
-Linux:
-```
-$ curl https://github.com/liangrog/sillybot/releases/download/v0.1.0/linux-amd64 -o sillybot
-```
-Mac:
-```
-$ curl https://github.com/liangrog/sillybot/releases/download/v0.1.0/mac-amd64 -o sillybot
-```
+Download the [binary](https://github.com/liangrog/sillybot/releases) to your local machine. 
 
+Note only linux and mac versions are provided
+
+Depends on your version (linux or mac), run below command to change name and make it executable:
+```
+$ mv sillybot-[linux/mac] sillybot && chmod +x sillybot
+```
 ## How to run
 Run below command follow the instruction in [requirement](requirement.txt)
 ```
